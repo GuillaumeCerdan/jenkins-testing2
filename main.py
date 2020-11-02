@@ -1,4 +1,4 @@
-def expose:
+def expose():
     return "coucou"
 
 print(expose())
